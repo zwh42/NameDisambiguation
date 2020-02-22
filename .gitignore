@@ -1,5 +1,8 @@
 /data
-
+/.DS_Store
+/result
+/temp
+/reference
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
